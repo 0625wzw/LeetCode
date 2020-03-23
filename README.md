@@ -14,3 +14,4 @@
 |  面试题40：最小的k个数 | [题目链接](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12530211.html) | +1 |
 |  面试题24：反转链表 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12536744.html) | +1 |
 |  面试题57：和为s的两个数字 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12550425.html) | +1 |
+|  面试题25：合并两个排序的链表 | [题目链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12553549.html) | +1 |
