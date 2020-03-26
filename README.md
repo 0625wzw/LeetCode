@@ -18,7 +18,7 @@
 |  面试题29：顺时针打印矩阵 | [题目链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12556960.html) | +1 |
 |  面试题10-II：青蛙跳台阶问题 | [题目链接](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12564009.html) | +1 |
 |  面试题42：连续子数组的最大和 | [题目链接](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12571893.html) | +1 |
-
+|  面试题20：表示数值的字符串 | [题目链接](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12572914.html) | +1 |
 
 
 
