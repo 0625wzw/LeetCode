@@ -25,7 +25,7 @@
 |  面试题58 - I：翻转单词顺序 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12596947.html) | +1 |
 |  面试题53 - II：0～n-1中缺失的数字 | [题目链接](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12603042.html) | +1 |
 |  面试题64：求1+2+…+n | [题目链接](https://leetcode-cn.com/problems/qiu-12n-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12610508.html) | +1 |
-
+|  面试题38：字符串的排列 | [题目链接](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12618716.html) | +1 |
 
 
 
