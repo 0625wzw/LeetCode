@@ -27,7 +27,7 @@
 |  面试题64：求1+2+…+n | [题目链接](https://leetcode-cn.com/problems/qiu-12n-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12610508.html) | +1 |
 |  面试题38：字符串的排列 | [题目链接](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12618716.html) | +1 |
 |  面试题55 - I：二叉树的深度 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12626704.html) | +1 |
-
+|  面试题17：打印从1到最大的n位数 | [题目链接](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12630059.html) | +1 |
 
 
 
