@@ -30,7 +30,7 @@
 |  面试题17：打印从1到最大的n位数 | [题目链接](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12630059.html) | +1 |
 |  面试题09：用两个栈实现队列 | [题目链接](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12636320.html) | +1 |
 |  面试题27：二叉树的镜像 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12640690.html) | +1 |
-
+|  面试题56 - II：数组中数字出现的次数 II | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12650824.html) | +1 |
 
 
 
