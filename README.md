@@ -2,7 +2,7 @@
 ## 剑指offer系列题目列表（C++实现）<br/>
 ### [我的博客地址](https://www.cnblogs.com/wzw0625/)<br/>
 | 题目名称 | 题目链接 | 题目博客 | 刷题次数 |
-| :----- | :----: |:----: | :----: |
+| :-----: | :----: |:----: | :----: |
 |  面试01.06：字符串压缩 | [题目链接](https://leetcode-cn.com/problems/compress-string-lcci/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502492.html) | +1 |
 |  面试03：数组中重复的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501935.html) | +1 |
 |  面试04：二维数组中的查找 | [题目链接](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502045.html) | +1 |
