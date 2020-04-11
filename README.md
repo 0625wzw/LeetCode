@@ -34,6 +34,6 @@
 |  面试题28：对称的二叉树 | [题目链接](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12657538.html) | +1 |
 |  面试题15：二进制中1的个数 | [题目链接](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12663686.html) | +1 |
 |  面试题62：圆圈中最后剩下的数字 | [题目链接](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12672335.html) | +1 |
-
+|  面试题54：二叉搜索树的第k大节点 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12677838.html) | +1 |
 
 
