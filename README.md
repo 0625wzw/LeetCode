@@ -46,5 +46,5 @@
 |  面试题13：机器人的运动范围 | [题目链接](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12731031.html) | +1 |
 |  面试题52：两个链表的第一个公共节点 | [题目链接](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12736180.html) | +1 |
 |  面试题49：丑数 | [题目链接](https://leetcode-cn.com/problems/chou-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12742605.html.html) | +1 |
-
+|  面试题16：数值的整数次方 | [题目链接](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12749341.html) | +1 |
 
