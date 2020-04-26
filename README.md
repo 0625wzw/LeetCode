@@ -51,7 +51,7 @@
 |  面试题26：树的子结构 | [题目链接](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12765554.html) | +1 |
 |  面试题41：数据流中的中位数 | [题目链接](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12771873.html) | +1 |
 |  面试题43：1～n整数中1出现的次数 | [题目链接](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12777497.html) | +1 |
-
+|  面试题44：数字序列中某一位的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12784191.html) | +1 |
 
 
 
