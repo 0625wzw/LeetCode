@@ -54,7 +54,7 @@
 |  面试题44：数字序列中某一位的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12784191.html) | +1 |
 |  面试题31：栈的压入、弹出序列 | [题目链接](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12791605.html) | +1 |
 |  面试题36：二叉搜索树与双向链表 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12796134.html) | +1 |
-
+|  面试题37：序列化二叉树 | [题目链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12800269.html) | +1 |
 
 
 
