@@ -55,6 +55,7 @@
 |  面试题31：栈的压入、弹出序列 | [题目链接](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12791605.html) | +1 |
 |  面试题36：二叉搜索树与双向链表 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12796134.html) | +1 |
 |  面试题37：序列化二叉树 | [题目链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12800269.html) | +1 |
+|  面试题48：最长不含重复字符的子字符串 | [题目链接](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12810918.html) | +1 |
 
 
 
