@@ -48,6 +48,7 @@
 |  面试题48：最长不含重复字符的子字符串 | [题目链接](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12810918.html) | +1 |
 |  面试题49：丑数 | [题目链接](https://leetcode-cn.com/problems/chou-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12742605.html.html) | +1 |
 |  面试题50：第一个只出现一次的字符 | [题目链接](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12696080.html) | +1 |
+|  面试题51：数组中的逆序对 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12824380.html) | +1 |
 |  面试题52：两个链表的第一个公共节点 | [题目链接](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12736180.html) | +1 |
 |  面试题53 - II：0～n-1中缺失的数字 | [题目链接](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12603042.html) | +1 |
 |  面试题54：二叉搜索树的第k大节点 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12677838.html) | +1 |
