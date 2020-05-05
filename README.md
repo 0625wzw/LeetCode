@@ -64,6 +64,7 @@
 |  面试题62：圆圈中最后剩下的数字 | [题目链接](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12672335.html) | +1 |
 |  面试题63：股票的最大利润 | [题目链接](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12591741.html) | +1 |
 |  面试题64：求1+2+…+n | [题目链接](https://leetcode-cn.com/problems/qiu-12n-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12610508.html) | +1 |
+|  面试题66：构建乘积数组 | [题目链接](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12830946.html) | +1 |
 
 
 
