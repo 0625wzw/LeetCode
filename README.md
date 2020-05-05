@@ -10,8 +10,8 @@
 |  面试题06：从尾到头打印链表 | [题目链接](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501851.html) | +1 |
 |  面试题07：重建二叉树 | [题目链接](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12588884.html) | +1 |
 |  面试题09：用两个栈实现队列 | [题目链接](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12636320.html) | +1 |
-|  面试题10- I：斐波那契数列 | [题目链接](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12701230.html) | +1 |
-|  面试题10-II：青蛙跳台阶问题 | [题目链接](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12564009.html) | +1 |
+|  面试题10 - I：斐波那契数列 | [题目链接](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12701230.html) | +1 |
+|  面试题10 - II：青蛙跳台阶问题 | [题目链接](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12564009.html) | +1 |
 |  面试题11：旋转数组的最小数字 | [题目链接](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12703997.html) | +1 |
 |  面试题12：矩阵中的路径 | [题目链接](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12720152.html) | +1 |
 |  面试题13：机器人的运动范围 | [题目链接](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12731031.html) | +1 |
@@ -54,6 +54,7 @@
 |  面试题53 - II：0～n-1中缺失的数字 | [题目链接](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12603042.html) | +1 |
 |  面试题54：二叉搜索树的第k大节点 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12677838.html) | +1 |
 |  面试题55 - I：二叉树的深度 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12626704.html) | +1 |
+|  面试题56 - I：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12833771.html) | +1 |
 |  面试题56 - II：数组中数字出现的次数 II | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12650824.html) | +1 |
 |  面试题57：和为s的两个数字 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12550425.html) | +1 |
 |  面试题57 - II：和为s的连续正数序列 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12505962.html) | +1 |
