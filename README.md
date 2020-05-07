@@ -48,3 +48,24 @@
 |  面试题48：最长不含重复字符的子字符串 | [题目链接](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12810918.html) | +1 |
 |  面试题49：丑数 | [题目链接](https://leetcode-cn.com/problems/chou-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12742605.html.html) | +1 |
 |  面试题50：第一个只出现一次的字符 | [题目链接](https://leetcode-cn.com/problems/di-yi-ge-zhi-ch)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12696080.html) | +1 |
+|  面试题51：数组中的逆序对 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12824380.html) | +1 |
+|  面试题52：两个链表的第一个公共节点 | [题目链接](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12736180.html) | +1 |
+|  面试题53 - I：在排序数组中查找数字 | [题目链接](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12830307.html) | +1 |
+|  面试题53 - II：0~n-1中缺失的数字 | [题目链接](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12603042.html) | +1 |
+|  面试题54：二叉树的第K大节点 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12677838.html) | +1 |
+
+
+
+|  面试题55 - I：的深度 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12626704.html) | +1 |
+|  面试题55 - II：平衡二叉树 | [题目链接](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12842436.html) | +1 |
+|  面试题56 - I：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12833771.html) | +1 |
+|  面试题56 - II：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12650824.html) | +1 |
+|  面试题57 - II：和为s的连续正数序列 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12505962.html) | +1 |
+|  面试题58 - I：翻转单词顺序 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12596947.html) | +1 |
+|  面试题58 - II：左旋转字符串 | [题目链接](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12521859.html) | +1 |
+|  面试题59 - II：队列的最大值 | [题目链接](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12515178.html) | +1 |
+|  面试题60：n个骰子的点数替换空格 | [题目链接](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12826111.html) | +1 |
+|  面试题62：圆圈中最后剩下的数字 | [题目链接](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12672335.html) | +1 |
+|  面试题63：股票的最大利润 | [题目链接](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12591741.html) | +1 |
+|  面试题64：求1+2+3...+n | [题目链接](https://leetcode-cn.com/problems/qiu-12n-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12610508.html) | +1 |
+|  面试题66：构建乘积数组 | [题目链接](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12830946.html) | +1 |
