@@ -24,6 +24,7 @@
 |  面试题19：正则表达式匹配 | [题目链接](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12764809.html) | +1 |
 |  面试题20：表示数值的字符串 | [题目链接](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12572914.html) | +1 |
 |  面试题21：调整数组顺序使奇数位于偶数前面 | [题目链接](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12580153.html) | +1 |
+|  面试题22：链表中倒数第k个节点 | [题目链接](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12843136.html) | +1 |
 |  面试题24：反转链表 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12536744.html) | +1 |
 |  面试题25：合并两个排序的链表 | [题目链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12553549.html) | +1 |
 |  面试题26：树的子结构 | [题目链接](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12765554.html) | +1 |
@@ -57,6 +58,7 @@
 |  面试题55 - II：平衡二叉树 | [题目链接](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12842436.html) | +1 |
 |  面试题56 - I：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12833771.html) | +1 |
 |  面试题56 - II：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12650824.html) | +1 |
+|  面试题57：和为s的两个数字 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12550425.html) | +1 |
 |  面试题57 - II：和为s的连续正数序列 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12505962.html) | +1 |
 |  面试题58 - I：翻转单词顺序 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12596947.html) | +1 |
 |  面试题58 - II：左旋转字符串 | [题目链接](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12521859.html) | +1 |
