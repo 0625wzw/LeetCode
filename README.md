@@ -65,6 +65,7 @@
 |  面试题59 - I：滑动窗口的最大值 | [题目链接](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12846021.html) | +1 |
 |  面试题59 - II：队列的最大值 | [题目链接](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12515178.html) | +1 |
 |  面试题60：n个骰子的点数替换空格 | [题目链接](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12826111.html) | +1 |
+|  面试题61：扑克牌中的顺子 | [题目链接](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12860165.html) | +1 |
 |  面试题62：圆圈中最后剩下的数字 | [题目链接](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12672335.html) | +1 |
 |  面试题63：股票的最大利润 | [题目链接](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12591741.html) | +1 |
 |  面试题64：求1+2+3...+n | [题目链接](https://leetcode-cn.com/problems/qiu-12n-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12610508.html) | +1 |
