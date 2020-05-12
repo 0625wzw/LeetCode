@@ -33,7 +33,7 @@
 |  面试题29：顺时针打印矩阵 | [题目链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12556960.html) | +1 |
 |  面试题30：包含min函数的栈 | [题目链接](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12726603.html) | +1 |
 |  面试题31：栈的压入、弹出序列 | [题目链接](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12791605.html) | +1 |
-|  面试题32 - II：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)| [题目解答(https://www.cnblogs.com/wzw0625/p/12878022.html) | +1 |
+|  面试题32 - II：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12878022.html) | +1 |
 |  面试题33：二叉搜索树的后序遍历序列 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12868954.html) | +1 |
 |  面试题34：二叉树中和为某一值的路径 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12862741.html) | +1 |
 |  面试题35：复杂链表的复制 | [题目链接](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12682294.html) | +1 |
