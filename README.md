@@ -1,7 +1,7 @@
 
 # <center>LeetCode之剑指offer系列刷题</center>
 ## 剑指offer系列题目列表（C++实现）<br/>
-### [我的博客地址](https://www.cnblogs.com/wzw0625/)<br/>
+### [博客地址](https://www.cnblogs.com/wzw0625/tag/%E5%89%91%E6%8C%87offer%E7%B3%BB%E5%88%97/)<br/>
 | 题目名称和题号 | 题目链接 | 题目博客 | 刷题次数 |
 | :----- | :----: |:----: | :----: |
 |  面试题01.06：字符串压缩 | [题目链接](https://leetcode-cn.com/problems/compress-string-lcci/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502492.html) | +1 |
