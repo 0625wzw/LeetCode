@@ -2,10 +2,10 @@
 # <center>LeetCode之剑指offer系列刷题</center>
 ## 剑指offer系列题目列表（C++实现）<br/>
 ### [博客地址](https://www.cnblogs.com/wzw0625/tag/%E5%89%91%E6%8C%87offer%E7%B3%BB%E5%88%97/)<br/>
-| 题目名称和题号 | 题目链接 | 题目博客 | 刷题次数 |
-| :----- | :----: |:----: | :----: |
+| 题目名称和题号 | 题目链接 | 题目博客 | 刷题次数 | 类型 |
+| :----- | :----: |:----: | :----: | :----: |
 |  面试题01.06：字符串压缩 | [题目链接](https://leetcode-cn.com/problems/compress-string-lcci/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502492.html) | +1 |
-|  面试题03：数组中重复的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501935.html) | +1 |
+|  面试题03：数组中重复的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501935.html) | +2 | 查找 |
 |  面试题04：二维数组中的查找 | [题目链接](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502045.html) | +1 |
 |  面试题05：替换空格 | [题目链接](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12500212.html) | +1 |
 |  面试题06：从尾到头打印链表 | [题目链接](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501851.html) | +1 |
