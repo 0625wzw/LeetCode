@@ -42,7 +42,7 @@
 |  面试题35：复杂链表的复制 | [题目链接](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12682294.html) | +1 |
 |  面试题36：二叉搜索树与双向链表 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12796134.html) | +1 |
 |  面试题37：序列化二叉树 | [题目链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12800269.html) | +1 |
-|  面试题38：字符串的排列 | [题目链接](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12618716.html) | +1 |
+|  面试题38：字符串的排列 | [题目链接](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12618716.html) | +2 | 回溯法+全排列 |
 |  面试题39：数组中出现次数超过一半的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12697294.html) | +1 |
 |  面试题40：最小的k个数 | [题目链接](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12530211.html) | +2 | 查找+优先队列(大根堆) |
 |  面试题41：数据流中的中位数 | [题目链接](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12771873.html) | +2 | 二分查找+大根堆 |
