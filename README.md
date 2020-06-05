@@ -62,7 +62,7 @@
 |  面试题54：二叉树的第K大节点 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12677838.html) | +1 |
 |  面试题55 - I：二叉树的深度 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12626704.html) | +1 |
 |  面试题55 - II：平衡二叉树 | [题目链接](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12842436.html) | +1 |
-|  面试题56 - I：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12833771.html) | +1 |
+|  面试题56 - I：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12833771.html) | +2 | 位运算+哈希表 |
 |  面试题56 - II：数组中数字出现的次数 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12650824.html) | +1 |
 |  面试题57：和为s的两个数字  | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12550425.html) | +2 | 哈希+二分+双指针 |
 |  面试题57 - II：和为s的连续正数序列 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12505962.html) | +2 | 规律题+双指针 |
