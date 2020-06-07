@@ -48,7 +48,7 @@
 |  面试题41：数据流中的中位数 | [题目链接](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12771873.html) | +2 | 二分查找+大根堆 |
 |  面试题42：连续子数组的最大和 | [题目链接](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12571893.html) | +2 | 贪心法+动态规划 |
 |  面试题43：1～n整数中1出现的次数 | [题目链接](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12777497.html) | +2 | 查找+哈希表 |
-|  面试题44：数字序列中某一位的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12784191.html) | +1 |
+|  面试题44：数字序列中某一位的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12784191.html) | +2 | 数学规律 |
 |  面试题45：把数组排成最小的数 | [题目链接](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12813735.html) | +1 |
 |  面试题46：把数字翻译成字符串 | [题目链接](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12819593.html) | +2 | BFS+动态规划 |
 |  面试题47：礼物的最大价值 | [题目链接](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12812948.html) | +1 |
