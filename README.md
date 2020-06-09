@@ -19,7 +19,7 @@
 |  面试题14 - I：剪绳子 | [题目链接](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12821561.html) | +1 |
 |  面试题14 - II：剪绳子 | [题目链接](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12821717.html) | +1 |
 |  面试题15：二进制中1的个数 | [题目链接](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12663686.html) | +2 | 规律题位运算 |
-|  面试题16：数值的整数次方 | [题目链接](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12749341.html) | +1 |
+|  面试题16：数值的整数次方 | [题目链接](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12749341.html) | +2 | 递归+迭代 |
 |  面试题17：打印从1到最大的n位数 | [题目链接](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12630059.html) | +1 |
 |  面试题18：删除链表的节点 | [题目链接](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12689627.html) | +1 |
 |  面试题19：正则表达式匹配 | [题目链接](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12764809.html) | +1 |
