@@ -8,7 +8,7 @@
 |  面试题03：数组中重复的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501935.html) | +2 | 查找 |
 |  面试题04：二维数组中的查找 | [题目链接](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502045.html) |  +2 | 有序矩阵查找 |
 |  面试题05：替换空格 | [题目链接](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12500212.html) | +2 | 查找 |
-|  面试题06：从尾到头打印链表 | [题目链接](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501851.html) | +1 |
+|  面试题06：从尾到头打印链表 | [题目链接](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501851.html) | +2 | 栈+双数组 |
 |  面试题07：重建二叉树 | [题目链接](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12588884.html) | +1 |
 |  面试题09：用两个栈实现队列 | [题目链接](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12636320.html) | +1 |
 |  面试题10 - I：斐波那契数列 | [题目链接](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12701230.html) | +1 |
