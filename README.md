@@ -11,7 +11,7 @@
 |  面试题06：从尾到头打印链表 | [题目链接](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501851.html) | +2 | 栈+双数组 |
 |  面试题07：重建二叉树 | [题目链接](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12588884.html) | +2 | 递归 |
 |  面试题09：用两个栈实现队列 | [题目链接](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12636320.html) | +2 | 双栈 |
-|  面试题10 - I：斐波那契数列 | [题目链接](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12701230.html) | +1 |
+|  面试题10 - I：斐波那契数列 | [题目链接](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12701230.html) | +2 | 动态规划+递归 |
 |  面试题10 - II：青蛙跳台阶问题 | [题目链接](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12564009.html) | +1 |
 |  面试题11：旋转数组的最小数字 | [题目链接](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12703997.html) | +2 | 二分查找 |
 |  面试题12：矩阵中的路径 | [题目链接](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12720152.html) | +2 | DFS |
