@@ -17,7 +17,7 @@
 |  面试题12：矩阵中的路径 | [题目链接](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12720152.html) | +2 | DFS |
 |  面试题13：机器人的运动范围 | [题目链接](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12731031.html) | +2 | DFS+BFS |
 |  面试题14 - I：剪绳子 | [题目链接](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12821561.html) | +2 | 动态规划 |
-|  面试题14 - II：剪绳子 | [题目链接](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12821717.html) | +1 |
+|  面试题14 - II：剪绳子 | [题目链接](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12821717.html) | +2 | 动态规划 |
 |  面试题15：二进制中1的个数 | [题目链接](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12663686.html) | +2 | 规律题位运算 |
 |  面试题16：数值的整数次方 | [题目链接](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12749341.html) | +2 | 递归+迭代 |
 |  面试题17：打印从1到最大的n位数 | [题目链接](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12630059.html) | +2 | 字符串+指数 |
