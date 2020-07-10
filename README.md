@@ -24,7 +24,7 @@
 |  面试题18：删除链表的节点 | [题目链接](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12689627.html) | +2 | 双指针+哑结点 |
 |  面试题19：正则表达式匹配 | [题目链接](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12764809.html) | +2 | 动态规划 |
 |  面试题20：表示数值的字符串 | [题目链接](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12572914.html) | +2 | 字符串 |
-|  面试题21：调整数组顺序使奇数位于偶数前面 | [题目链接](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12580153.html) | +1 |
+|  面试题21：调整数组顺序使奇数位于偶数前面 | [题目链接](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12580153.html) | +2 | 双指针+双栈 |
 |  面试题22：链表中倒数第k个节点 | [题目链接](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12843136.html) | +2 | 普通+快慢指针 |
 |  面试题24：反转链表 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12536744.html) | +2 | 递归+快慢指针 |
 |  面试题25：合并两个排序的链表 | [题目链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12553549.html) | +2 | 递归+双指针 |
