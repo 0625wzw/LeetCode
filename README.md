@@ -68,7 +68,7 @@
 |  面试题57 - II：和为s的连续正数序列 | [题目链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12505962.html) | +2 | 规律题+双指针 |
 |  面试题58 - I：翻转单词顺序 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12596947.html) | +2 | 字符串+栈 |
 |  面试题58 - II：左旋转字符串 | [题目链接](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12521859.html) | +2 | 字符串+STL操作 |
-|  面试题59 - I：滑动窗口的最大值 | [题目链接](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12846021.html) | +1 |
+|  面试题59 - I：滑动窗口的最大值 | [题目链接](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12846021.html) | +2 | 动态规划+双端队列 |
 |  面试题59 - II：队列的最大值 | [题目链接](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12515178.html) | +1 |
 |  面试题60：n个骰子的点数替换空格 | [题目链接](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12826111.html) | +1 |
 |  面试题61：扑克牌中的顺子 | [题目链接](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12860165.html) | +1 |
