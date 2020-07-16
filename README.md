@@ -58,7 +58,7 @@
 |  面试题51：数组中的逆序对 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12824380.html) | +2 | 归并排序 |
 |  面试题52：两个链表的第一个公共节点 | [题目链接](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12736180.html) | +1 |
 |  面试题53 - I：在排序数组中查找数字 | [题目链接](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12830307.html) | +2 | 二分查找+哈希表 |
-|  面试题53 - II：0~n-1中缺失的数字 | [题目链接](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12603042.html) | +1 |
+|  面试题53 - II：0~n-1中缺失的数字 | [题目链接](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12603042.html) | +2 | 二分查找  |
 |  面试题54：二叉树的第K大节点 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12677838.html) | +1 |
 |  面试题55 - I：二叉树的深度 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12626704.html) | +2 | BFS(队列)+DFS(栈) |
 |  面试题55 - II：平衡二叉树 | [题目链接](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12842436.html) | +1 |
