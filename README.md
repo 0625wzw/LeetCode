@@ -3,7 +3,7 @@
 ## 剑指offer系列题目列表（C++实现）<br/>
 ### [博客地址](https://www.cnblogs.com/wzw0625/tag/%E5%89%91%E6%8C%87offer%E7%B3%BB%E5%88%97/)<br/>
 | 题目名称和题号 | 题目链接 | 题目博客 | 刷题次数 | 类型 |
-| :----- | :----: |:---- | :---- | :----: |
+| :----- | :---- |:---- | :---- | :----: |
 |  面试题01.06：字符串压缩 | [题目链接](https://leetcode-cn.com/problems/compress-string-lcci/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502492.html) | +2 | 查找+双指针 |
 |  面试题03：数组中重复的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12501935.html) | +2 | 查找 |
 |  面试题04：二维数组中的查找 | [题目链接](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12502045.html) |  +2 | 有序矩阵查找 |
@@ -29,7 +29,7 @@
 |  面试题24：反转链表 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12536744.html) | +2 | 递归+快慢指针 |
 |  面试题25：合并两个排序的链表 | [题目链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12553549.html) | +2 | 递归+双指针 |
 |  面试题26：树的子结构 | [题目链接](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12765554.html) | +2 | dfs |
-|  面试题27：二叉树的镜像 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12640690.html) | +1 |
+|  面试题27：二叉树的镜像 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12640690.html) | +2 | 递归+栈+队列 |
 |  面试题28：对称的二叉树 | [题目链接](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12657538.html) | +1 |
 |  面试题29：顺时针打印矩阵 | [题目链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12556960.html) | +2 | 矩阵遍历+迷宫类型 |
 |  面试题30：包含min函数的栈 | [题目链接](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12726603.html) | +1 |
