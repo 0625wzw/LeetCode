@@ -30,7 +30,7 @@
 |  面试题25：合并两个排序的链表 | [题目链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12553549.html) | +2 | 递归+双指针 |
 |  面试题26：树的子结构 | [题目链接](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12765554.html) | +2 | dfs |
 |  面试题27：二叉树的镜像 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12640690.html) | +2 | 递归+栈+队列 |
-|  面试题28：对称的二叉树 | [题目链接](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12657538.html) | +1 |
+|  面试题28：对称的二叉树 | [题目链接](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12657538.html) | +2 | 递归+栈+队列 |
 |  面试题29：顺时针打印矩阵 | [题目链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12556960.html) | +2 | 矩阵遍历+迷宫类型 |
 |  面试题30：包含min函数的栈 | [题目链接](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12726603.html) | +1 |
 |  面试题31：栈的压入、弹出序列 | [题目链接](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12791605.html) | +1 |
