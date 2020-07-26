@@ -33,7 +33,7 @@
 |  面试题28：对称的二叉树 | [题目链接](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12657538.html) | +2 | 递归+栈+队列 |
 |  面试题29：顺时针打印矩阵 | [题目链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12556960.html) | +2 | 矩阵遍历+迷宫类型 |
 |  面试题30：包含min函数的栈 | [题目链接](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12726603.html) | +2 | 数组+栈 |
-|  面试题31：栈的压入、弹出序列 | [题目链接](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12791605.html) | +1 |
+|  面试题31：栈的压入、弹出序列 | [题目链接](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12791605.html) | +2 | 栈 |
 |  面试题32 - I：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12879175.html) | +2 | BFS |
 |  面试题32 - II：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12878022.html) | +2 | BFS |
 |  面试题32 - III：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12879428.html) | +2  队列+栈 ||
