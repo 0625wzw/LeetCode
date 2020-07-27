@@ -28,7 +28,7 @@
 |  面试题22：链表中倒数第k个节点 | [题目链接](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12843136.html) | +2 | 普通+快慢指针 |
 |  面试题24：反转链表 | [题目链接](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12536744.html) | +2 | 递归+快慢指针 |
 |  面试题25：合并两个排序的链表 | [题目链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12553549.html) | +2 | 递归+双指针 |
-|  面试题26：树的子结构 | [题目链接](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12765554.html) | +2 | dfs |
+|  面试题26：树的子结构 | [题目链接](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12765554.html) | +2 | DFS |
 |  面试题27：二叉树的镜像 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12640690.html) | +2 | 递归+栈+队列 |
 |  面试题28：对称的二叉树 | [题目链接](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12657538.html) | +2 | 递归+栈+队列 |
 |  面试题29：顺时针打印矩阵 | [题目链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12556960.html) | +2 | 矩阵遍历+迷宫类型 |
@@ -41,7 +41,7 @@
 |  面试题34：二叉树中和为某一值的路径 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12862741.html) | +2 | 递归+栈 |
 |  面试题35：复杂链表的复制 | [题目链接](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12682294.html) | +2 | 哈希表+DFS |
 |  面试题36：二叉搜索树与双向链表 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12796134.html) | +2 | 数组+递归 |
-|  面试题37：序列化二叉树 | [题目链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12800269.html) | +2 |
+|  面试题37：序列化二叉树 | [题目链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12800269.html) | +2 | BFS+DFS |
 |  面试题38：字符串的排列 | [题目链接](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12618716.html) | +2 | 回溯法+全排列 |
 |  面试题39：数组中出现次数超过一半的数字 | [题目链接](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12697294.html) | +2 | 哈希+众数 |
 |  面试题40：最小的k个数 | [题目链接](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12530211.html) | +2 | 查找+优先队列(大根堆) |
