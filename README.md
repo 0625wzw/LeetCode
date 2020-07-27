@@ -38,7 +38,7 @@
 |  面试题32 - II：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12878022.html) | +2 | BFS |
 |  面试题32 - III：从上到下打印二叉树 | [题目链接](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12879428.html) | +2 | 队列+栈 |
 |  面试题33：二叉搜索树的后序遍历序列 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12868954.html) | +2 | 栈+递归 |
-|  面试题34：二叉树中和为某一值的路径 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12862741.html) | +1 |
+|  面试题34：二叉树中和为某一值的路径 | [题目链接](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12862741.html) | +2 | 递归+栈 |
 |  面试题35：复杂链表的复制 | [题目链接](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12682294.html) | +2 | 哈希表+DFS |
 |  面试题36：二叉搜索树与双向链表 | [题目链接](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12796134.html) | +1 |
 |  面试题37：序列化二叉树 | [题目链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)| [题目解答(C++)](https://www.cnblogs.com/wzw0625/p/12800269.html) | +1 |
