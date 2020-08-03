@@ -1,0 +1,141 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <limits.h>
+#include <vector>
+ /*
+ *《剑指Offer——名企面试官精讲典型编程题》代码(C++)
+ */
+using namespace std;
+/*
+* 面试题目3-数组中重复的数字：
+* 在一个长度为n的数组里的所有数字都在0到n-1的范围内。数组中某些数字是重复的，但不知道有几个数字重复了，
+* 也不知道每个数字重复了几次。请找出数组中任意一个重复的数字。
+* 例如，如果输入长度为7的数组{2, 3, 1, 0, 2, 5, 3}，
+* 那么对应的输出是重复的数字2或者3。
+*/
+
+/*
+ *参数：
+ *	@param nums：整型数组
+ *	@param len：数组长度
+ *	@param duplication：输出数组中重复的数字
+ *返回值：
+ *	true：输入有效，并且数组中存在重复的数字
+ *	false：输入无效，或者数字中不存在重复的数字
+ */
+bool duplicate(int nums[], int len, int *duplication)
+{
+	if (nums == nullptr || len <= 0) return false;
+	for (int i = 0; i < len; ++i)
+	{
+		if (nums[i] < 0 || nums[i] > len - 1) return false;
+	}
+	for (int i = 0; i < len; ++i)
+	{
+		while (nums[i] != i)
+		{
+			if (nums[i] == nums[nums[i]])
+			{
+				*duplication = nums[i];
+				return true;
+			}
+			else
+			{
+				//swap(nums[i], nums[nums[i]]
+				int tmp = nums[i];
+				nums[i] = nums[tmp];
+				nums[tmp] = tmp;
+			}
+		}
+	}
+	return false;
+}
+//测试数组中存在重复数字
+void test1()
+{
+	int nums[] = { 2,1,3,1,4 };
+	int duplication[] = { 1 };
+	cout << "整数数组：[";
+	for (auto num : nums)
+	{
+		cout << num << " ";
+	}
+	cout << "]" << endl;
+	cout <<"测试数组中是否存在数字1，若存在，则输出1，否则输出0：" << duplicate(nums, sizeof(nums) / sizeof(int), duplication) << endl;
+}
+//测试数组中不存在重复数字
+void test2()
+{
+	int nums[] = { 0,1,2,4,3 };
+	int duplication1[] = { 6 };
+	int duplication2[] = { -1 };
+	cout << "整数数组：[ ";
+	for (auto num : nums)
+	{
+		cout << num << " ";
+	}
+	cout << "]" << endl;
+	cout << "数组中是否存在6，其中n=5，而6大于5，输出false： " << duplicate(nums, sizeof(nums) / sizeof(int), duplication1) << endl;
+	cout << "数组中是否存在-1，不满足0~n条件，输出false： " << duplicate(nums, sizeof(nums) / sizeof(int), duplication2) << endl;
+}
+//测试无效的输入
+void test3()
+{
+	int *nums = nullptr;
+	int duplication[] = { -1 };
+	cout << "输入空指针，输出false： " << duplicate(nums, sizeof(nums) / sizeof(int), duplication) << endl;
+}
+//重复的数字是数组中最小的数字
+void test4()
+{
+	int nums[] = { 2,1,3,1,4 };
+	int duplication[] = { 1 };
+	cout << "整数数组：[";
+	for (auto num : nums)
+	{
+		cout << num << " ";
+	}
+	cout << "]" << endl;
+	cout << "重复的数字是数组中最小的数字1，若存在，则输出1，否则输出0：" << duplicate(nums, sizeof(nums) / sizeof(int), duplication) << endl;
+
+}
+//重复的数字是数组中最大的数字
+void test5()
+{
+	int nums[] = { 2,1,3,1,4 };
+	int duplication[] = { 4 };
+	cout << "整数数组：[";
+	for (auto num : nums)
+	{
+		cout << num << " ";
+	}
+	cout << "]" << endl;
+	cout << "重复的数字是数组中最大的数字4，若存在，则输出1，否则输出0：" << duplicate(nums, sizeof(nums) / sizeof(int), duplication) << endl;
+
+}
+//数组中存在多个重复的数字
+void test6()
+{
+	int nums[] = { 2,1,1,2,4 };
+	int duplication[] = { 1,2 };
+	cout << "整数数组：[";
+	for (auto num : nums)
+	{
+		cout << num << " ";
+	}
+	cout << "]" << endl;
+	cout << "数组中存在多个重复的数字1和2，若存在，则输出1，否则输出0：" << duplicate(nums, sizeof(nums) / sizeof(int), duplication) << endl;
+}
+int main()
+{
+	test1();
+	test2();
+	test3();
+	test4();
+	test5();
+	test6();
+	return 0;
+}
